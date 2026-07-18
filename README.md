@@ -21,8 +21,8 @@ A PyBullet-based genetic algorithm (GA) framework for evolving locomotion gaits 
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/serdarselimys/PyBullet-GeneticAlgorithm.git
+cd PyBullet-GeneticAlgorithm
 ```
 
 ## 2. Install dependencies
@@ -114,6 +114,12 @@ The replay script auto-detects each row's `mode` and dispatches to the correct t
 
 ---
 
-## License
+Licensing & Commercial Use
 
-Add your preferred license here (e.g. MIT).
+These files are licensed under the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) license.
+
+You are free to remix, adapt, and build upon this design for non-commercial purposes, as long as you give appropriate credit.
+
+You may not use the material for commercial purposes of any kind.
+
+Link: https://creativecommons.org/licenses/by-nc/4.0/
