@@ -1,0 +1,4 @@
+pybullet>=3.2.5
+numpy>=1.23
+pandas>=1.5
+tqdm>=4.65

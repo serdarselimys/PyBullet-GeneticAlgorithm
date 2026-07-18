@@ -1,0 +1,2 @@
+mode,exp_id,gait,target_vel,target_height,step_height,direction,score,step_amplitude,frequency,distance_traveled,avg_speed,speed_match_quality,stability_quality,yaw_quality,drift_quality,lateral_deviation,stride_length,vertical_deviation
+straight,0,tripod,0.15,0.2,0.015,1,61.56859149941628,0.04308592316193427,0.9988848385484961,1.57558543138846,0.157558543138846,0.994303131610381,0.997182362901372,0.9889722870754694,0.996276193540588,0.006107992376588271,0.15773442671765395,0.0015211953160272906
