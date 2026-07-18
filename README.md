@@ -1,3 +1,5 @@
+![Screenshot](GA Tutorial Thumbnail.png)
+
 # HexaDog ZBD — Genetic Algorithm Gait Optimizer
 
 A PyBullet-based genetic algorithm (GA) framework for evolving locomotion gaits on the **HexaDog ZBD**, a six-legged (3-DOF per leg) hexapod robot. The optimizer searches for gait parameters (step amplitude and frequency) that best match a target velocity across four locomotion modes — **straight**, **sideway**, **diagonal**, and **spin** — and saves the best-performing individuals to a CSV. A separate replay script loads that CSV and visually plays back each optimized gait in the PyBullet GUI.
