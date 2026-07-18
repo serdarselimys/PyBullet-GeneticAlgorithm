@@ -1,4 +1,4 @@
-![Screenshot](GA Tutorial Thumbnail.png)
+![Screenshot](GA_Tutorial.png)
 
 # HexaDog ZBD — Genetic Algorithm Gait Optimizer
 
